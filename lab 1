@@ -1,8 +1,8 @@
 <html>
-<head>
+<head>This Is Lab 1
 </head>
 <body>
-This Is My Html Assignment
+<p>This Is My Html Assignment</p>
 <b>Goto : </b><br>
         <a href="lab 2.html">Lab2</a><br>
         <a href="lab 3.html">Lab3</a><br>
